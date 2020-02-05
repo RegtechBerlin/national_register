@@ -4,11 +4,11 @@ BELGIUM,BE,NBB,National Bank of Belgium (NBB),https://www.nbb.be/fr/supervision-
 BULGARIA,BG,BNB,Financial Supervision Commission (FSC),http://www.bnb.bg/RegistersAndServices/RSCIRegisters/BS_CI_REG_BANKSLIST_EN
 CROATIA,HR,HNB,Hrvatska Narodna Banka (HNB),https://www.hnb.hr/en/core-functions/supervision/list-of-credit-institutions
 CYPRUS,CY,CBC,Central Bank of Cyprus (CBC),https://www.centralbank.cy/en/licensing-supervision/banks/register-of-credit-institutions-operating-in-cyprus
-CZECH REPUBLIC (THE);CZ,CNB,Czech National Bank (CNB);https://apl.cnb.cz/apljerrsdad/JERRS.WEB15.BASIC_LISTINGS_RESPONSE_3?p_lang=en&p_DATUM=28.02.2018&p_hie=HI&p_rec_per_page=25&p_ses_idx=1
+CZECH REPUBLIC (THE),CZ,CNB,Czech National Bank (CNB),https://apl.cnb.cz/apljerrsdad/JERRS.WEB15.BASIC_LISTINGS_RESPONSE_3?p_lang=en&p_DATUM=28.02.2018&p_hie=HI&p_rec_per_page=25&p_ses_idx=1
 DENMARK,DK,FSA,finanstilsynet (FSA),https://virksomhedsregister.finanstilsynet.dk/
 ESTONIA,EE,FI,FINANTSINSPEKTSIOON (FSA),https://www.fi.ee/en/supervised-entities
 FINLAND,FI,FINFSA,Finanssivalvonta (FIN-FSA),https://www.finanssivalvonta.fi/en/registers/supervised-entities/
-FRANCE,FR,ACPR;Autorite de Controle Prudentiel (ACPR) Regafi,https://www.regafi.fr/spip.php?page=results&type=advanced&id_secteur=3&lang=en&denomination=&siren=&cib=&bic=&nom=&siren_agent=&num=&cat=01-TBR07&retrait=0
+FRANCE,FR,ACPR,Autorite de Controle Prudentiel (ACPR) Regafi,https://www.regafi.fr/spip.php?page=results&type=advanced&id_secteur=3&lang=en&denomination=&siren=&cib=&bic=&nom=&siren_agent=&num=&cat=01-TBR07&retrait=0
 GERMANY,DE,BAFIN,Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin),https://portal.mvp.bafin.de/database/InstInfo/
 GREECE,GR,BOG,Bank Of Greece,https://www.bankofgreece.gr/BogDocumentEn/1_CreditInstitutions.xlsx
 HUNGARY,HU,CBH,Magyar Nemzeti Bank (MNB),https://intezmenykereso.mnb.hu/en/Home/Index
@@ -20,7 +20,7 @@ LIECHTENSTEIN,LI,FMA,Finanzmarktaufsicht Liechtenstein (FMA),http://register.fma
 LITHUANIA,LT,BL,Bank of Lithuania (LB),https://www.lb.lt/en/sfi-financial-market-participants?ff=1&market=1&%20type%5B%5D=3&business_form%5B%5D=82
 LUXEMBOURG,LU,CSSF,Commission de Surveillance du Secteur Financier (CSSF),https://supervisedentities.apps.cssf.lu/index.html?language=fr#Home
 MALTA,MT,FSA,Malta Financial Services Authority (MFSA),https://www.mfsa.com.mt/financial-services-register/
-NETHERLANDS (THE);NL,DNB,De Nederlandsche Bank (DNB),https://www.dnb.nl/en/supervision/public-register/index.jsp
+NETHERLANDS (THE),NL,DNB,De Nederlandsche Bank (DNB),https://www.dnb.nl/en/supervision/public-register/index.jsp
 NORWAY,NO,FSA,Finanstilsynet (FSA),https://www.finanstilsynet.no/en/finanstilsynets-registry/
 POLAND,PL,FSA,Komisja Nadzoru Finansowego (KNF),https://erup.knf.gov.pl/View/
 PORTUGAL,PT,BP,Banco De Portugal,https://www.bportugal.pt/en/entidades-autorizadas/67/all
