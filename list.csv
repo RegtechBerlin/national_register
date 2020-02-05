@@ -8,7 +8,7 @@ CZECH REPUBLIC (THE);CZ,CNB,Czech National Bank (CNB);https://apl.cnb.cz/apljerr
 DENMARK,DK,FSA,finanstilsynet (FSA);https://virksomhedsregister.finanstilsynet.dk/
 ESTONIA,EE,FI,FINANTSINSPEKTSIOON (FSA);https://www.fi.ee/en/supervised-entities
 FINLAND,FI,FINFSA,Finanssivalvonta (FIN-FSA);https://www.finanssivalvonta.fi/en/registers/supervised-entities/
-FRANCE,FR,ACPR;"Autorité de Controle Prudentiel (ACPR) Regafi";https://www.regafi.fr/spip.php?page=results&type=advanced&id_secteur=3&lang=en&denomination=&siren=&cib=&bic=&nom=&siren_agent=&num=&cat=01-TBR07&retrait=0
+FRANCE,FR,ACPR;Autorite de Controle Prudentiel (ACPR) Regafi;https://www.regafi.fr/spip.php?page=results&type=advanced&id_secteur=3&lang=en&denomination=&siren=&cib=&bic=&nom=&siren_agent=&num=&cat=01-TBR07&retrait=0
 GERMANY,DE,BAFIN,Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin);https://portal.mvp.bafin.de/database/InstInfo/
 GREECE,GR,BOG,Bank Of Greece,https://www.bankofgreece.gr/BogDocumentEn/1_CreditInstitutions.xlsx
 HUNGARY,HU,CBH,Magyar Nemzeti Bank (MNB);https://intezmenykereso.mnb.hu/en/Home/Index
